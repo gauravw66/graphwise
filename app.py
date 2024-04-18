@@ -75,9 +75,9 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-st.set_page_config(page_title='Survey Results')
-st.header('Survey Results 2021')
-st.subheader('Was the tutorial helpful?')
+st.set_page_config(page_title='GraphWise')
+st.header('Excel to WebApp')
+st.subheader('Convert Your Excel files into WebApp')
 
 # --- UPLOAD EXCEL OR CSV FILE
 file_types = ['xlsx', 'xls', 'csv']  # Add 'csv' to the list of accepted file types

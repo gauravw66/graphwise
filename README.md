@@ -3,7 +3,7 @@
 GraphWise is a simple web application built with Streamlit that enables users to convert their Excel files into interactive visualizations. With GraphWise, users can upload Excel (xlsx, xls) or CSV files containing their data and instantly visualize it without the need for any additional software or coding skills.
 
 ## Live Demo
-👉 https://graphwise.streamlit.app/
+👉 [https://graphwise.streamlit.app/](https://graphwise.streamlit.app/)
 
 ## Features
 
@@ -38,3 +38,23 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshots
+
+Here are some screenshots of the GraphWise app:
+
+![File Upload](screenshots/file_upload.png)
+
+![Data Selection](screenshots/data_selection.png)
+
+![Pie Chart](screenshots/pie_chart.png)
+
+![Histogram](screenshots/histogram.png)
+
+![Scatter Plot](screenshots/scatter_plot.png)
+
+![Line Graph](screenshots/line_graph.png)
+
+![Box Plot](screenshots/box_plot.png)
+
+![Violin Plot](screenshots/violin_plot.png)

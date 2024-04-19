@@ -8,8 +8,8 @@ st.header('Excel to WebApp')
 st.subheader('Convert Your Excel files into WebApp')
 
 # --- UPLOAD EXCEL OR CSV FILE
-file_types = ['xlsx', 'xls', 'csv']  # Add 'csv' to the list of accepted file types
-excel_file = st.file_uploader("Upload Excel or CSV file", type=file_types)
+file_types = ['xlsx', 'xls']  # Add 'csv' to the list of accepted file types
+excel_file = st.file_uploader("Upload Excel file", type=file_types)
 
 if excel_file is not None:
     if excel_file.type == 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' or \

@@ -43,12 +43,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 Here are some screenshots of the GraphWise app:
 
+`Upload File`
 ![File Upload](Screenshots/fileupload.png)
 
+`Pie Chart`
 ![Pie Chart](Screenshots/pie.png)
 
+`Histogram`
 ![Histogram](Screenshots/histogram.png)
 
+`Scatter Plot`
 ![Scatter Plot](Screenshots/scatter.png)
 
+`Line Graph`
 ![Line Graph](Screenshots/line.png)

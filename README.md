@@ -31,14 +31,6 @@ GraphWise is a simple web application built with Streamlit that enables users to
 - Plotly Express
 - PIL (Python Imaging Library)
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Screenshots
 
 Here are some screenshots of the GraphWise app:
@@ -57,3 +49,11 @@ Here are some screenshots of the GraphWise app:
 
 `Line Graph`
 ![Line Graph](Screenshots/line.png)
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

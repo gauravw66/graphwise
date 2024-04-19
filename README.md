@@ -1,28 +1,40 @@
+# GraphWise: Excel to WebApp
 
-# Turn Your Excel File Into A Web App With Python
-
-In this tutorial, I am going to show you how to convert Excel Files into a Web Application by using the Python Library Streamlit. The beauty of Streamlit is that you can create web applications directly in Python, without needing to know HTML, CSS, or JavaScript. The Web App is fully interactive and will be updated, whenever you make changes in the Excel file.
+GraphWise is a simple web application built with Streamlit that enables users to convert their Excel files into interactive visualizations. With GraphWise, users can upload Excel (xlsx, xls) or CSV files containing their data and instantly visualize it without the need for any additional software or coding skills.
 
 ## Live Demo
-👉 https://surveyresults.pythonandvba.com
+👉 https://graphwise.streamlit.app/
 
-## Video
+## Features
 
-[![YouTube Video](https://img.youtube.com/vi/7zeAIEPJaoQ/0.jpg)](https://youtu.be/7zeAIEPJaoQ)
+- **File Upload**: Upload Excel or CSV files directly to the web application.
+- **Data Selection**: Select specific columns from the uploaded dataset for visualization.
+- **Interactive Visualizations**: Choose from various chart types including Pie Chart, Histogram, Scatter Plot, Line Graph, Box Plot, and Violin Plot.
+- **Streamlit Integration**: Built using Streamlit, making it easy to deploy and use.
 
+## Usage
 
-## Author
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed in `requirements.txt`.
+3. Run the Streamlit app using the command `streamlit run app.py`.
+4. Upload your Excel or CSV file and start visualizing your data.
 
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
+## Supported File Formats
 
+- Excel (xlsx, xls)
 
+## Requirements
 
-## Feedback
+- Python 3.x
+- Streamlit
+- Pandas
+- Plotly Express
+- PIL (Python Imaging Library)
 
-If you have any feedback, please reach out to me at contact@pythonandvba.com
+## Contributing
 
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
 
-![Logo](https://www.pythonandvba.com/banner-img)
+## License
 
+This project is licensed under the [MIT License](LICENSE).
